@@ -58,21 +58,21 @@ Membuat file `koneksi.php` untuk menghubungkan aplikasi PHP dengan database `lat
 
 Koneksi diuji melalui browser dan berhasil terhubung ke database.
 
-![Koneksi PHP](screenshot/05-koneksi.png)
+![Koneksi PHP](ss/7foto.png)
 
 ### 8. Menampilkan Data Barang (Read)
 Membuat file `index.php` untuk mengambil dan menampilkan data barang dari database menggunakan perintah SQL `SELECT`.
 
-![Tampilan Data Barang](screenshot/06-index.png)
+![Tampilan Data Barang](ss/8foto.png)
 
 ### 9. Menambahkan Data Barang (Create)
 Membuat file `tambah.php` yang berisi formulir untuk memasukkan data barang baru ke database menggunakan perintah SQL `INSERT`.
 
-![Form Tambah](screenshot/07-form-tambah.png)
+![Form Tambah](ss/9foto.png)
 
 Setelah data disimpan, barang baru berhasil ditampilkan pada halaman utama.
 
-![Hasil Tambah](screenshot/08-hasil-tambah.png)
+![Hasil Tambah](ss/10foto.png)
 
 ### 10. Mengubah Data Barang (Update)
 Membuat file `ubah.php` untuk mengubah informasi barang yang sudah tersimpan menggunakan perintah SQL `UPDATE`.
