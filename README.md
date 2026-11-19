@@ -20,7 +20,7 @@ Langkah pertama adalah membuka XAMPP Control Panel, kemudian menjalankan:
 
 Kedua layanan tersebut digunakan agar aplikasi PHP dan database dapat berjalan.
 
-![XAMPP](ss/3foto.png)
+![XAMPP](ss/3foto (3).png)
 
 ### 4. Membuat Database MySQL
 Membuka phpMyAdmin melalui alamat:
