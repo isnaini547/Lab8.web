@@ -29,7 +29,7 @@ Membuka phpMyAdmin melalui alamat:
 
 Kemudian membuat database dengan nama `latihan1`.
 
-![Database MySQL](screenshot/02-database.png)
+![Database MySQL](ss/4foto.png)
 
 ### 5. Membuat Tabel Data Barang
 Di dalam database `latihan1`, dibuat tabel dengan nama `data_barang` yang memiliki 7 kolom:
@@ -43,7 +43,7 @@ Di dalam database `latihan1`, dibuat tabel dengan nama `data_barang` yang memili
 
 Kolom `id_barang` digunakan sebagai Primary Key dan Auto Increment.
 
-![Struktur Tabel](screenshot/03-struktur-tabel.png)
+![Struktur Tabel](ss/5foto.png)
 
 ### 6. Mengisi Data Barang
 Memasukkan tiga data barang ke dalam tabel `data_barang`, yaitu:
@@ -51,7 +51,7 @@ Memasukkan tiga data barang ke dalam tabel `data_barang`, yaitu:
 - HP Xiaomi Android
 - HP OPPO Android
 
-![Data Barang](screenshot/04-data-barang.png)
+![Data Barang](ss/6foto.png)
 
 ### 7. Membuat Koneksi PHP ke MySQL
 Membuat file `koneksi.php` untuk menghubungkan aplikasi PHP dengan database `latihan1`.
