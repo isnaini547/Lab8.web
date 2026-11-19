@@ -40,10 +40,10 @@ Di dalam database `latihan1`, dibuat tabel dengan nama `data_barang` yang memili
 5. harga_beli
 6. harga_jual
 7. stok
-
 Kolom `id_barang` digunakan sebagai Primary Key dan Auto Increment.
 
 ![Struktur Tabel](ss/5foto.png)
+![struktur](ss/kolom7.png)
 
 ### 6. Mengisi Data Barang
 Memasukkan tiga data barang ke dalam tabel `data_barang`, yaitu:
