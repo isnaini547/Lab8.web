@@ -77,18 +77,18 @@ Setelah data disimpan, barang baru berhasil ditampilkan pada halaman utama.
 ### 10. Mengubah Data Barang (Update)
 Membuat file `ubah.php` untuk mengubah informasi barang yang sudah tersimpan menggunakan perintah SQL `UPDATE`.
 
-![Form Ubah](screenshot/09-form-ubah.png)
+![Form Ubah](ss/11foto.png)
 
 Setelah perubahan disimpan, data barang berhasil diperbarui.
 
-![Hasil Ubah](screenshot/10-hasil-ubah.png)
+![Hasil Ubah](ss/12foto.png)
 
 ### 11. Menghapus Data Barang (Delete)
 Membuat file `hapus.php` untuk menghapus data barang berdasarkan ID menggunakan perintah SQL `DELETE`.
 
 Data barang yang dipilih berhasil dihapus dari database.
 
-![Hasil Hapus](screenshot/11-hasil-hapus.png)
+![Hasil Hapus](ss/13foto.png)
 
 ### 12. Membuat Tampilan dengan CSS
 Membuat file `style.css` untuk mengatur tampilan aplikasi agar lebih rapi dan mudah digunakan.
